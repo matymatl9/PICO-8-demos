@@ -1,2 +1,3 @@
 # PICO-8-demos
-I had peoblems with the enemy movement 
+  I had problems with the enemy movement because first I tried random movement but that was too easy. So instead of that I tried to put some kind of a tracking system which was not bad but whenever I was behind an object on the left side he was on the right side so that wasn't working really well to. But then I found a system called BFS that tracks the player and finds the nearest possible paths to him. And that solved everything, so now it's perfect.
+  Next time I would more work on more animations of the characters and the enemies becuase right now they are just still and move around the whole maze like statues. Also I would maybe work more on different object and themes of each level so it's more interesting.
